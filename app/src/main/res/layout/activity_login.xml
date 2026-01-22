@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#1E1E1E">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Zaloguj się"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#4CAF50"
+        android:layout_marginBottom="32dp" />
+
+    <EditText
+        android:id="@+id/login_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:layout_marginBottom="16dp"
+        android:textColor="#E0E0E0"
+        android:textColorHint="#888888"
+        android:background="#2D2D2D"
+        android:padding="16dp" />
+
+    <EditText
+        android:id="@+id/login_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Hasło"
+        android:inputType="textPassword"
+        android:layout_marginBottom="24dp"
+        android:textColor="#E0E0E0"
+        android:textColorHint="#888888"
+        android:background="#2D2D2D"
+        android:padding="16dp" />
+
+    <Button
+        android:id="@+id/login_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zaloguj się"
+        android:backgroundTint="#4CAF50"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp" />
+
+    <Button
+        android:id="@+id/forgot_password_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Nie pamiętam hasła"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#2D2D2D"
+        android:textColor="#4CAF50"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/go_to_register"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Zarejestruj się"
+        android:layout_marginTop="12dp"
+        android:backgroundTint="#66BB6A"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
+
+</LinearLayout>

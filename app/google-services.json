@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756522722075",
+    "project_id": "projektzaliczeniowykonkel",
+    "storage_bucket": "projektzaliczeniowykonkel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756522722075:android:781427ea29552844fb29be",
+        "android_client_info": {
+          "package_name": "com.example.projektzaliczeniowy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHxqNrWPQ_ZPTXzJ1S_7pCJj0I5RCdQCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

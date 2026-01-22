@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Projekt Zaliczeniowy</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="recipe_categories">
+        <item>Dowolna</item>
+        <item>Śniadanie</item>
+        <item>Obiad</item>
+        <item>Kolacja</item>
+        <item>Deser</item>
+    </string-array>
+
+    <string-array name="cuisine_types">
+        <item>Dowolna</item>
+        <item>Brytyjska</item>
+        <item>Włoska</item>
+        <item>Meksykańska</item>
+        <item>Bliskowschodnia</item>
+        <item>Grecka</item>
+        <item>Indyjska</item>
+        <item>Morska</item>
+        <item>Tajska</item>
+        <item>Hawajska</item>
+        <item>Etiopska</item>
+        <item>Zachodnioafrykańska</item>
+        <item>Peruwiańska</item>
+        <item>Kubańska</item>
+        <item>Dominikańska</item>
+        <item>Portorykańska</item>
+        <item>Soul Food</item>
+        <item>Filipińska</item>
+        <item>Południowoafrykańska</item>
+        <item>Jamajska</item>
+        <item>Szwedzka</item>
+        <item>Perska</item>
+        <item>Libańska</item>
+        <item>Rdzenna</item>
+        <item>Wietnamska</item>
+        <item>Afrykańska</item>
+        <item>Karaibska</item>
+        <item>Niemiecka</item>
+        <item>Chińska</item>
+        <item>Francuska</item>
+        <item>Latynoamerykańska</item>
+        <item>Amerykańska</item>
+        <item>BBQ</item>
+    </string-array>
+</resources>

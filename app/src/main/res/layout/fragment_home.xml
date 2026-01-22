@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#1E1E1E">
+
+    <TextView
+        android:id="@+id/welcome_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Witaj!"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#4CAF50"
+        android:layout_marginBottom="32dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Odkryj świat smaków dzięki naszej aplikacji pełnej inspirujących przepisów kulinarnych, które łatwo przygotujesz w domu. Znajdź idealne danie na każdą okazję i ciesz się gotowaniem z pasją!"
+        android:textSize="18sp"
+        android:textColor="#E0E0E0"
+        android:layout_marginBottom="48dp"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/logout_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Wyloguj się"
+        android:backgroundTint="#2D2D2D"
+        android:textColor="#4CAF50"
+        android:textSize="16sp"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp" />
+
+</LinearLayout>
