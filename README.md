@@ -8,7 +8,7 @@ Opis poszczególnych funkcjonalności:
   	Rejestracja i logowanie użytkowników oraz możliwość resetowania hasła używając Firebase.
 
 2. ### 'Recipe'
-	Szczegółowe wyświetlenie przepisu:
+	Szczegółowe wyświetlenie przepisu z API tasty oraz przetłumaczone za pomocą mlkit translate. Opis zawiera:
       - zdjęcie,
 	  - kaloryczność oraz czas przygotowania,
 	  - składniki,
