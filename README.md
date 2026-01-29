@@ -9,23 +9,25 @@ Opis poszczególnych funkcjonalności:
 
 2. ### 'Recipe'
 	Szczegółowe wyświetlenie przepisu:
-	    - zdjęcie,
+
+		- zdjęcie,
 	    - kaloryczność oraz czas przygotowania,
 	    - składniki,
 	    - wartości odżywcze,
 	    - instrukcje krok po kroku do przygotowania potrawy.
 	
-3. ### 'SearchFragment'
+4. ### 'SearchFragment'
 	Filtrowanie przepisów według:
+
 	    - liczby kalorii,
 	    - czasu przygotowania,
 	    - wartości odżywczych,
 	    - rodzaj posiłku.
 
-4. ### 'Comment'
+6. ### 'Comment'
   	Dodawanie komentarzy, ocen oraz zdjęć (z galerii urządzenia bądź bezpośrednio z aparatu) pod każdym z przepisów.
 
-5. ### 'FavoritesFragment'
+7. ### 'FavoritesFragment'
 	Zapisywanie przepisów do ulubionych.
 
 ## Instalacja i uruchomienie
