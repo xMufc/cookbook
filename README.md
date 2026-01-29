@@ -40,13 +40,13 @@ Następnie należy:
 
     git clone https://github.com/xMufc/cookbook.git
 
-  3. Otwórz projekt w Android Studio:
+  2. Otwórz projekt w Android Studio:
 
     - File → Open
     - wybierz folder z projektem
 
-  5. Poczekaj na synchronizację Gradle.
-  6. Podłącz urządzenie z Androidem lub uruchom emulator (AVD).
-  7. Kliknij Run w Android Studio.
-  8. Wybierz urządzenie docelowe.
-  9. Aplikacja zostanie zainstalowana i uruchomiona automatycznie.
+  3. Poczekaj na synchronizację Gradle.
+  4. Podłącz urządzenie z Androidem lub uruchom emulator (AVD).
+  5. Kliknij Run w Android Studio.
+  6. Wybierz urządzenie docelowe.
+  7. Aplikacja zostanie zainstalowana i uruchomiona automatycznie.
