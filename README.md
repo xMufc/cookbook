@@ -5,25 +5,25 @@ Aplikacja mobilna umożliwiająca przeglądanie, ocenianie oraz zapisywanie prze
 Opis poszczególnych funkcjonalności:
 
 1. ### 'Login' / 'Register'
-  Rejestracja i logowanie użytkowników oraz możliwość resetowania hasła używając Firebase.
+  	Rejestracja i logowanie użytkowników oraz możliwość resetowania hasła używając Firebase.
 
 2. ### 'Recipe'
-  Szczegółowe wyświetlenie przepisu:
-    - zdjęcie,
-    - kaloryczność oraz czas przygotowania,
-    - składniki,
-    - wartości odżywcze,
-    - instrukcje krok po kroku do przygotowania potrawy.
+	Szczegółowe wyświetlenie przepisu:
+	    - zdjęcie,
+	    - kaloryczność oraz czas przygotowania,
+	    - składniki,
+	    - wartości odżywcze,
+	    - instrukcje krok po kroku do przygotowania potrawy.
 	
 3. ### 'SearchFragment'
-  Filtrowanie przepisów według:
-    - liczby kalorii,
-    - czasu przygotowania,
-    - wartości odżywczych,
-    - rodzaj posiłku.
+	Filtrowanie przepisów według:
+	    - liczby kalorii,
+	    - czasu przygotowania,
+	    - wartości odżywczych,
+	    - rodzaj posiłku.
 
 4. ### 'Comment'
-  Dodawanie komentarzy, ocen oraz zdjęć (z galerii urządzenia bądź bezpośrednio z aparatu) pod każdym z przepisów.
+  	Dodawanie komentarzy, ocen oraz zdjęć (z galerii urządzenia bądź bezpośrednio z aparatu) pod każdym z przepisów.
 
 5. ### 'FavoritesFragment'
 	Zapisywanie przepisów do ulubionych.
